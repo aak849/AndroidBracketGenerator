@@ -26,17 +26,18 @@
                                     may not be much, it is a great starting point for an app we hope to account for most (if not all) of your tournament organizing needs.</string>
 
     <string name="enter_player_names">Enter Player Names</string>
+    <string name="my_page">My Brackets</string>
     <string name="enter">Enter</string>
-    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_login">Welcome to BracketApp</string>
     <string name="login_with_password">"Login"</string>
     <string name="sign_up">"Sign up"</string>
     <string name="email_hint">"Enter your email address"</string>
     <string name="password_hint">"Enter your password"</string>
     <string name="forgotPw">"Forgot Password</string>
-    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_forgot_password">Password Recovery</string>
     <string name="resetPassword">Submit</string>
     <string name="resetExplanation">After clicking submit, an email will be sent requesting you to reset your password</string>
-    <string name="title_activity_change_password">ChangePasswordActivity</string>
+    <string name="title_activity_change_password">Change Password</string>
     <string name="oldPassword">Enter your old password</string>
     <string name="newPassword">Enter your new password</string>
 </resources>
